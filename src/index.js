@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import './fonts/RecordaScript/RecordaScript_Personal_Use_Only.ttf';
+import './fonts/BooRush/BooRush (DEMO).otf';
+import './fonts/AristaLight/[z] Arista light.ttf';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

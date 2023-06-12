@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "RecordaScript";
+  src: local("RecordaScript"),
+    url("./fonts/RecordaScript/RecordaScript_Personal_Use_Only.ttf") format("truetype");
+
+}
+
+@font-face {
+  font-family: "BooRush";
+  src: local("BooRush"),
+    url("./fonts/BooRush/BooRush (DEMO).otf") format("truetype");
+}
+
+@font-face {
+  font-family: "AristaLight";
+  src: local("AristaLight"),
+    url("./fonts/AristaLight/[z] Arista light.ttf") format("truetype");
+}
