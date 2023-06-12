@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/happybirthday/static/css/main.366e8f5f.css",
-    "main.js": "/happybirthday/static/js/main.19fed99e.js",
-    "static/js/845.9b99d93d.chunk.js": "/happybirthday/static/js/845.9b99d93d.chunk.js",
-    "static/js/787.22729360.chunk.js": "/happybirthday/static/js/787.22729360.chunk.js",
+    "main.js": "/happybirthday/static/js/main.5154e67b.js",
+    "static/js/845.6e11df78.chunk.js": "/happybirthday/static/js/845.6e11df78.chunk.js",
+    "static/js/787.00c8c088.chunk.js": "/happybirthday/static/js/787.00c8c088.chunk.js",
     "static/media/FnPamRwacAMi7x-.png": "/happybirthday/static/media/FnPamRwacAMi7x-.b6ddda39fd8027955dfb.png",
     "static/media/shb sticker final.png": "/happybirthday/static/media/shb sticker final.4aab3cbad7550baf2a5d.png",
     "static/media/198628628_l_normal_none.jpg": "/happybirthday/static/media/198628628_l_normal_none.55b4bd4a6cd1e1d44c03.jpg",
@@ -22,12 +22,12 @@
     "static/media/BooRush (DEMO).otf": "/happybirthday/static/media/BooRush (DEMO).78a71ffd212a1fa97bbb.otf",
     "index.html": "/happybirthday/index.html",
     "main.366e8f5f.css.map": "/happybirthday/static/css/main.366e8f5f.css.map",
-    "main.19fed99e.js.map": "/happybirthday/static/js/main.19fed99e.js.map",
-    "845.9b99d93d.chunk.js.map": "/happybirthday/static/js/845.9b99d93d.chunk.js.map",
-    "787.22729360.chunk.js.map": "/happybirthday/static/js/787.22729360.chunk.js.map"
+    "main.5154e67b.js.map": "/happybirthday/static/js/main.5154e67b.js.map",
+    "845.6e11df78.chunk.js.map": "/happybirthday/static/js/845.6e11df78.chunk.js.map",
+    "787.00c8c088.chunk.js.map": "/happybirthday/static/js/787.00c8c088.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.366e8f5f.css",
-    "static/js/main.19fed99e.js"
+    "static/js/main.5154e67b.js"
   ]
 }
