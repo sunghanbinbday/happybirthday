@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/happybirthday/static/css/main.e4c655de.css",
-    "main.js": "/happybirthday/static/js/main.b40fa73a.js",
+    "main.js": "/happybirthday/static/js/main.446bfd5e.js",
     "static/js/845.d6128628.chunk.js": "/happybirthday/static/js/845.d6128628.chunk.js",
     "static/js/787.00c8c088.chunk.js": "/happybirthday/static/js/787.00c8c088.chunk.js",
     "static/media/shb sticker final.png": "/happybirthday/static/media/shb sticker final.4aab3cbad7550baf2a5d.png",
@@ -30,12 +30,12 @@
     "static/media/Logo_of_Twitter.svg.png": "/happybirthday/static/media/Logo_of_Twitter.svg.57707294f010a051b9d0.png",
     "index.html": "/happybirthday/index.html",
     "main.e4c655de.css.map": "/happybirthday/static/css/main.e4c655de.css.map",
-    "main.b40fa73a.js.map": "/happybirthday/static/js/main.b40fa73a.js.map",
+    "main.446bfd5e.js.map": "/happybirthday/static/js/main.446bfd5e.js.map",
     "845.d6128628.chunk.js.map": "/happybirthday/static/js/845.d6128628.chunk.js.map",
     "787.00c8c088.chunk.js.map": "/happybirthday/static/js/787.00c8c088.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4c655de.css",
-    "static/js/main.b40fa73a.js"
+    "static/js/main.446bfd5e.js"
   ]
 }
